@@ -8,3 +8,17 @@ TODO ITEMS
 * Web Service
 * Todo Service
 * TodoViewModel / ViewModelBase
+
+ANDROID
+* TodoActivity
+* TodosAdapter
+* TodosActivity
+
+IOS
+* TodoViewController
+* TodosTableViewController
+* TodosTableViewSource
+
+WINPHONE
+* TodoPage
+* TodosPage
