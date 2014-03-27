@@ -2,6 +2,7 @@ todo-sync
 =========
 TODO ITEMS
 
+CORE
 * SQLite Database
 * [PrimaryKey, AutoIncrement] on Model ID
 * Service Resolver - (See Jonathan Peppers book or James Montemagno projects)
