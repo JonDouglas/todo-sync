@@ -9,7 +9,8 @@ CORE
 * Web Service
 * Todo Service
 * TodoViewModel / ViewModelBase
-*     public class ToDoItem
+
+    public class ToDoItem
     {
         public string Id { get; set; }
 
