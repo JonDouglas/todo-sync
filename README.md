@@ -9,7 +9,7 @@ CORE
 * Web Service
 * Todo Service
 * TodoViewModel / ViewModelBase
-
+```
     public class ToDoItem
     {
         public string Id { get; set; }
@@ -20,7 +20,7 @@ CORE
         [JsonProperty(PropertyName = "complete")]
         public bool Complete { get; set; }
     }
-
+```
 ANDROID
 * TodoActivity
 * TodosAdapter
